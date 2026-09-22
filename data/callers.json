@@ -1,0 +1,17 @@
+[
+  {
+    "tenant": "acme",
+    "role": "manager",
+    "name": "Alice Manager"
+  },
+  {
+    "tenant": "acme",
+    "role": "analyst",
+    "name": "Alicia Analyst"
+  },
+  {
+    "tenant": "beta",
+    "role": "manager",
+    "name": "Brenda Manager"
+  }
+]

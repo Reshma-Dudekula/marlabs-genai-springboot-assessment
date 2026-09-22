@@ -1,0 +1,2 @@
+INVALID_SIGNALS
+No valid extractable data

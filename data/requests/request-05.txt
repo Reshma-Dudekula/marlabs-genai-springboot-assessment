@@ -1,0 +1,4 @@
+Benefit: Medical
+Amount: 5000
+Currency: USD
+Reference: REF-05

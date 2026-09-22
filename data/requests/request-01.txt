@@ -1,0 +1,4 @@
+Benefit: Travel
+Amount: 22000
+Currency: USD
+Reference: REF-01

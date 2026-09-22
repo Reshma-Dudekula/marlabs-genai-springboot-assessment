@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pol-001",
+    "tenant": "acme",
+    "role": "manager",
+    "status": "Approved",
+    "effective_from": "2024-01-01",
+    "effective_to": "2025-12-31",
+    "chunk_id": "chunk-1",
+    "quote": "Managers at Acme are eligible for travel reimbursement up to 22000 USD."
+  },
+  {
+    "id": "pol-002",
+    "tenant": "acme",
+    "role": "manager",
+    "status": "Approved",
+    "effective_from": "2024-01-01",
+    "effective_to": "2024-12-31",
+    "chunk_id": "chunk-2",
+    "quote": "Travel reimbursement is capped at 28000 USD for managers."
+  },
+  {
+    "id": "pol-003",
+    "tenant": "beta",
+    "role": "manager",
+    "status": "Approved",
+    "effective_from": "2024-01-01",
+    "effective_to": "2025-12-31",
+    "chunk_id": "chunk-3",
+    "quote": "Beta managers receive travel support of 15000 USD."
+  },
+  {
+    "id": "pol-004",
+    "tenant": "acme",
+    "role": "analyst",
+    "status": "Approved",
+    "effective_from": "2024-01-01",
+    "effective_to": "2025-12-31",
+    "chunk_id": "chunk-4",
+    "quote": "Analysts at Acme are eligible for travel assistance of 18000 USD."
+  },
+  {
+    "id": "pol-005",
+    "tenant": "acme",
+    "role": "manager",
+    "status": "Draft",
+    "effective_from": "2024-01-01",
+    "effective_to": "2025-12-31",
+    "chunk_id": "chunk-5",
+    "quote": "Draft notice: managers may receive 30000 USD."
+  },
+  {
+    "id": "pol-future",
+    "tenant": "acme",
+    "role": "manager",
+    "status": "Approved",
+    "effective_from": "2027-01-01",
+    "effective_to": "2028-12-31",
+    "chunk_id": "chunk-6",
+    "quote": "Future policy gives 25000 USD to managers."
+  },
+  {
+    "id": "pol-099",
+    "tenant": "acme",
+    "role": "manager",
+    "status": "Approved",
+    "effective_from": "2024-04-01",
+    "effective_to": "2024-05-31",
+    "chunk_id": "chunk-7",
+    "quote": "Early policy provides 19000 USD."
+  }
+]

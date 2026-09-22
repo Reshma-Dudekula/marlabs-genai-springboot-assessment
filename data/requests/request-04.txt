@@ -1,0 +1,4 @@
+Benefit: Travel
+Amount: 18000
+Currency: USD
+Reference: REF-04
